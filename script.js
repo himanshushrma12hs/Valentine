@@ -10,7 +10,7 @@ noBtn.addEventListener("mouseenter", () => {
 });
 
 yesBtn.addEventListener("click", () => {
-  message.innerHTML = "Yay!! 💖 You just made me the happiest 😍";
+  message.innerHTML = "Yay!! 💖 😍";
   noBtn.style.display = "none";
   yesBtn.disabled = true;
 });
